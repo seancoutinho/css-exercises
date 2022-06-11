@@ -1,0 +1,8 @@
+/* External styling for exercise 01 in the foundations directory */
+
+div {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
