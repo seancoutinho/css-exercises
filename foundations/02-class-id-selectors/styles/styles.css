@@ -1,0 +1,22 @@
+/* Styles for index.html in the second exercise of css foundations  */
+
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#p3 {
+    font-size: 24px;
+}
+
+#p4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
