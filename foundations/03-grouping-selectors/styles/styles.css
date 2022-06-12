@@ -1,0 +1,16 @@
+/* Styles for cementing class uses in css and html */
+
+.button1-properties,
+.button2-properties {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.button1-properties {
+    background-color: black;
+    color: white;
+}
+
+.button2-properties {
+    background-color: yellow;
+}
